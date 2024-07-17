@@ -41,9 +41,6 @@ AtliQ Hardware faced challenges in consolidating and analyzing data from diverse
 - **Supply Chain View**: Monitored inventory forecasts and net error.
 - **Executive View**: Provided a consolidated strategic overview.
 
-This project journey has been an incredible learning experience, showcasing my ability to master technical skills and apply them to derive meaningful business insights.
-
-Special thanks to Codebasics, Dhaval Patel, and Hemanand Vadivel for their excellent classes and guidance.
 
 ## Explore the Live Dashboard
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTEzNDZjN2ItZTkyNS00ZjJhLWE0MzUtODAwOTg0MTAwNjFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
