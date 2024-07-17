@@ -46,4 +46,4 @@ This project journey has been an incredible learning experience, showcasing my a
 Special thanks to Codebasics, Dhaval Patel, and Hemanand Vadivel for their excellent classes and guidance.
 
 ## Explore the Live Dashboard
-[View Dashboard](https://lnkd.in/gguF_Nfp)
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTEzNDZjN2ItZTkyNS00ZjJhLWE0MzUtODAwOTg0MTAwNjFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
