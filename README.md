@@ -2,6 +2,8 @@
 
 "BUSINESS INSIGHTS 360 for AtliQ Hardware" is a comprehensive Power BI project developed as part of the Codebasics Data Analytics Bootcamp. This project aims to provide actionable insights into various business functions at AtliQ Hardware, leveraging data analytics and visualization techniques.
 
+![Cover Page](CoverPage.png)
+
 ## Project Overview
 - **Project Name**: BUSINESS INSIGHTS 360 for AtliQ Hardware
 - **Tools Used**: Excel, Power BI Desktop, SQL
